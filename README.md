@@ -4,6 +4,6 @@ I’m a full-stack developer passionate about building modern and efficient web 
 
 ## Skills and Technologies:
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Java, Spring Boot, Express.js, MySQL, MongoDB
-- **Tools & DevOps:** Git, Docker, Jenkins, CI/CD, AWS
+- **Backend:** Node.js, Java, Spring Boot, MySQL
+- **Tools & DevOps:** Git, Docker, AWS
 - **Other Skills:** REST APIs, GraphQL, JWT Authentication, Redux, Unit Testing
